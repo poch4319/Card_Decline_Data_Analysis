@@ -1,3 +1,4 @@
+![pie](./graph/pieamount.png)
 # Card Decline Data Analysis
 
 This is an analysis on the dataset `Globepay Acceptance Report - Globepay Acceptance Report.csv`.
